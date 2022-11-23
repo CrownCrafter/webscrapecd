@@ -1,6 +1,5 @@
 google
-urllib.request
+urllib3
 bs4
 requests
-re
-csv
+regex
